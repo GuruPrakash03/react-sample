@@ -1,0 +1,80 @@
+body{
+  background-image: url("https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&w=600");
+  height: 100vh;
+  
+
+  background-size: cover;
+  background-position:center ;
+}
+.fourth{
+  margin-left: 450px;
+ 
+}
+.content{
+  margin-left: 0px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  cursor: pointer;
+}
+
+.first{
+     padding-top:40px ;
+     margin-left: 450px;
+  
+}
+.content{
+    padding-left: 0px;
+    
+}
+.regi{
+  margin-left: 450px;
+  margin-top: 10px;  
+  margin-bottom: 10px;
+}
+ .second{
+  margin-left: 450px;
+ }
+
+
+h2{
+  margin-left: 450px;
+}
+
+.guru{
+  position: absolute;
+  bottom: 200px;
+}
+.raj{
+  position: absolute;
+  bottom: 200px;
+  left: 400px;
+}
+.raj h2{
+  position: absolute;
+  bottom: 200px;
+  right: 150px;
+}
+.raj table,th,tr,td{
+ border: 5px solid black;
+ border-collapse: collapse;
+}
+
+.raj table{
+ text-align: center;
+ height: 150px;
+ width: 400px;
+ }
+
+ .initialpage{
+  padding-top: 100px;
+ }
+ .fourth{
+  margin-top: 30px;
+  position: relative;
+  left: 130px;
+  border-radius: 5px;
+  padding: 5px;
+}
